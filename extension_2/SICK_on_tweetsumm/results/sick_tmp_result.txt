@@ -1,0 +1,117 @@
+num_beams: 20
+ rouge1: 40.23523620558629
+ rouge2: 17.536142814932454
+ rougeL: 33.67629102644095
+ rougeLsum: 36.712784360908614
+ bert-score: 0.6330847385254773
+
+Customer is complaining that his watchlist is not updating with new episodes (past couple days). Agent updated that their team is working hard to investigate, and they hope to have a fix ready soon.
+Customer is complaining that his Acc was linked to an old number. Agent updated that they have updated their case manager https://t.co/WCQEFGIlXC.
+Customer is complaining that the new update ios11 sucks. Agent updated the customer to send a DM and they will work from there.
+Customer is complaining that the delivery drivers are too lazy to do their job. Agent updated that there are two service levels where they are required to deliver the packages from the shipper to the Post Office and they take care of the final delivery.
+Customer is stuck at Staines waiting for a Reading train, why no information or advice being passed on to passengers on the platform? Agent updated that the line is open again and trains can now run between Wokingham and Reading.
+Customer is enquiring about the availability of the product at Leicester Fosse Park. Agent updated that the product will be available in aisle 7.
+Customer is complaining about the 5K plan on the run app. Agent updated that they will be able to assist the customer better over the phone.
+Customer is complaining about TOC leaving their passengers stranded for three hours. Agent updated that they are contracted to those hours any updates from then would be made at stations.
+Customer is complaining that he is not getting 100mb for more money so now that this is the standard and they do offer 100mb shouldnt he receive it right away. Agent updated that the advertisements are package/product prices for new customers.
+Customer complains about the service. Agent apologizes for that the service is not available.
+Customer is complaining about the desktop website issue. Agent updated that they are aware of the issue and their IT team are working on a fix as they speak.
+Customer is complaining that they dont have access to a phone since they dont work for the company. Agent updated that they will be meeting them back in DM ASAP to continue helping.
+Customer is asking how to do red eye removal in Lightroom CC. Agent updated that this feature is not available in lightroom CC as of now, however you may suggest it as a feature here.
+Customer is complaining that the airline is not giving refunds. Agent updated that they can't do anything to speed up the refund via this channel, but hope you don't have to wait much longer.
+Customer is complaining that since th last update volume on the Apple TV has gone down. Agent updated that they will take a closer look and let them know which shows they have and which generation Apple TV they have.
+Customer is enquiring about getting from BTN to Exeter and then Gatwick tomorrow. Agent updated that major disruption is expected tomorrow due to the storm, the services running can be shown here.
+Customer is on the 17:35 train to reading tonight from swindon heard tht the line is closed between the station just wanted to ask how my train will get through I c it is going to Chippenham first then to reading".
+When I try to make my home xbox I have this message : Something went wrong when we tried to save your changes. Then try making it your home console and let us know if that works. ".
+Customer is complaining that the app is not working. Agent updated that they have tried a lot of fixes now and will contact their colleagues on the tech team who will be able to look into this issue further.
+Customer said "Webplayer been stuck on this ad even after refresh, restart, re-log in and trying on different computer, it's chrome on win 10 https://t.co/OOyAtWYkWi". Agent updated that they are always here to help.
+Customer is complaining that music and podcast skip around like a CD, then distorts and clears up in few seconds, only happens after iOS 11. Agent updated the customer to send a DM and they can troubleshoot more from there.
+Customer is complaining that he can login on his app but it isn't letting him add his wife's name to a flight he want to buy her w/ his points. Agent updated that they aren't aware of any technical issues with their website at the moment and should reach them at 800-435-9792.
+Customer is asking to give strobe lighting in coach C on the 18:20 Euston departure. Agent asks to buy the strobes.
+Customer is complaining about problems with Envy 7640 printer, set as default. Agent suggests to follow steps from this document and they will work to resolve the issue.
+Customer is complaining about HORRIBLE customer service and from a so-called "supervisor" at that. Agent updated that customer service is one of their main priorities.
+Customer is complaining that their account was hacked and all seller money stollen. Agent updated that they sent an email over the weekend, if they would like an update please reply directly to this email you received.
+Customer is complaining about not being able to book seats online and very unhelpful customer service agents. Agent updated the customer to DM his reference with the contact number and email address.
+Customer is complaining that he got this Panasonic SC-UA3 at Silverburn branch. The instructions say it should have a moulded 3 pin mains plug. This is definitely not the right one... https://t.co/KKwkxiOUAp". Agent updated that they do not stock any spares for this item.
+Customer is complaining that the Hulu app for Amazon FireTV has sound that is half a second or more delayed from video, even after cache clearing and other troubleshooting. Agent updated that they do not support any external audio devices at this stage, which may be why you're having trouble with bluetooth.
+Customer is complaining that he is locked out of his email and cannot seem to get the forms right. Agent updated that they are always here to help.
+Customer is complaining that their journey from Eastbourne to Basingstoke apparently isn't eitherorproblem. Agent informs that as their journey originated with Southern, they would need to claim compensation for the entire journey from them ^JM 2/2.
+Customer is complaining about the delay on DL 1234. Agent updated that they are reviewing the details for the delay and will try to have you on your way asap.
+Customer is complaining about lack of popular brands of cigarettes (Tuesdays and Thursdays). Agent updated that the system shows that 7 cases of Benson &amp; Hedges Blue King Size x20 will be delivered tomorrow.
+Customer is enquiring about the availability of the Lego world as part of the nitendo switch bundle for £299. Agent updated that they have fixed the issue and will be able to take advantage of all bundles as normal tomorrow.
+Customer is complaining about the delays at WAT. Agent updates that there have been two separate incidents on the network this morning which have led to delays.
+Customer is complaining about the middle seat when he had a perfectly good aisle seat. Agent updated that once a passenger's seat is reassigned and the airport have not take control of the flight I an able to change the seat.
+Customer is complaining that flight status via their website seems not to be working. Agent updated that they are unaware of any current issues.
+Customer is complaining that for some reason in the blackjacks gun game mode for blops 3, he keep being kicked for inactivity after 20 seconds of playing. Agent updated that if the issue continues send over a video of what you're encountering.
+Customer is looking for Super Mario Odyessy and Sonic Forces for Nintendo Switch. Agent updated that their system is showing that they're due a delivery on the 18th November.
+Customer is complaining that when the whole train is full bar two nearly empty first class carriages, do you think a more flexible approach might be warranted? Agent updated that if first class is declassified there will be announcement on-board to advise.
+Customer is complaining that when updating word (or any MS app) for iOS, why don't you show me a changelog? Where can I see changes. Agent updated that update notes can be found on where you downloaded the Office app.
+Customer is complaining that since the update to IOS 11 his phone doesnt perform as it should, Ive reset and restored but it still runs slow or turns off. Agent updated that they would be happy to look into this with them.
+Customer is complaining that they have to cancel 2 flights that they don't want to use otherwise they cancel their 4th flight and £4200 to change them. Agent informs that the price for rebooking and transforming return flights in one-way tickets, have to be re-priced.
+Customer is complaining that trash button on email notification does not work on latest iOS. Agent updated that they will look into that further.
+Customer is complaining that flight1287 from Miami to LaGuardia smells awful. Agent apologizes and requests to reach out to a flight attendant to address the odor in the aircraft.
+Customer is complaining that Breezeblocks by Alt-J has been replaced with their other song Fitzpleasure. Agent updated that they have taken a closer look and the track plays the correct song.
+Customer is complaining that he found a whole live frog in a bag of shreddded lettuce before. Agent requests to DM his title, full name, email and address along with the barcode, store bought from and price paid.
+Customer is complaining that prepacked sweet potato used to cost £1/kg, now costs £1.50/725g. Agent updated that they will strive to give their customers the best possible value.
+Customer is asking how to resolve this error CE-30022-7. Agent updated that they will update if it arises again.
+Customer is complaining that they signed up for $75 package June of '17. We've been charged $200+ /month since then. Agent updated to DM the phone number associated with the account &amp; the service address.
+Customer is complaining about the lack of security at the Hall Green store. Agent updated that they have had a few problems recently and are looking into improving security.
+Customer is complaining that his BITS service resets it's Startup type from disabled to automatic. Agent suggests to try the troubleshooting steps 1/2 https://t.co/3qcAsLFkaY.
+Customer is complaining that the NRC app failed to update his activity for last two runs. Agent updated that they will be able to assist the customer better if they can pass a screenshot of what they're seeing.
+Customer is enquiring about the flight number from CGK to KUL 8.30am. Agent updated that the bag will be brought with that flight.
+Customer is complaining about not getting notifications anymore on his Xbox. Agent suggests to try a soft factory reset of the Xbox One console.
+Customer is complaining that the password reset email never arrives after making the reset requests and no mail from Tesco even gets as far as our mail servers. Agent updated the customer to DM his full name, address and email so that he may look into this issue.
+Customer is complaining that the only thing customer service did was email me a prompt to provide proof of my name change. Agent updated that the customer service team is waiting for the documents and they'll let them know what the next steps are.
+Customer is complaining about the map module in LRCC which still goes offline. Agent updated that they are looping in an expert who can help them out here.
+Customer is complaining that when there are no drivers and ones food gets ice cold and soggy if it's policy to still charge the cust. Agent updated that they have escalated the support inquiry to a specialist and someone will be reaching out to them momentarily.
+Customer is asking for help with site to site VPN and PowerShell. Agent updated that they found some documentation that might help with this and will keep you updated on their findings.
+Customer is complaining that he has subscribed to Play Music and it isn't working. Agent asks to share any screenshots or details with them and they will take a look.
+Customer is complaining that AirPods are connected but dont play audio anymore any troubleshooting tips?". Agent updated to create a backup of the data on both devices and updating to iOS 11.0.3 iPhone 11.1.
+Customer is complaining that why won't the Tom Petty solo albums/songs start when pressing play anymore. Agent suggests to try a reinstall.
+Customer is complaining that they can't update their iPhone to #ios1102 and getting this screenshot. Agent updated that they will need to restore their iPhone via Recovery Mode.
+Customer is complaining that last night he hit "shut down and update" with no warning that it wasn't a usual 30-second update but that it would take 30-40 mins instead. Agent updated that they have the option to schedule their updates.
+I checked our website &amp; unable to see the rate you screenshot. When I contacted IHG, they would not honor rate. For assist, pls call 800 424 6835.
+Customer is enquiring about the flight or SkyTeam-operated. Agent states that it's not a matter of the what kind of ticket, the passenger must be traveling under the same pnr (reservation) as you.
+Customer is complaining that Ryanair is cancelling flights now like Ryanair with no information provided. Agent updated that it can take 28 days for a response from the contact details they provided that is not acceptable customer service.
+Customer is complaining that it is still acceptable for customers to be submitted to secondhand smoke to enter the store. Agent updated that they have passed their concerns along to the relevant team so they can be reviewed.
+Customer is complaining that they have had a service person out to their home to repair internet which goes in and out and fluctuates a lot. Agent requests to look further into this for him.
+Customer is complaining that he has been waiting over 3 weeks for compensation that was promised on 1Nov. Agent updated that they're currently awaiting a response from their Payments team and unfortunately they're unable to provide a timescale for how long this will take.
+Customer is complaining that msg is not working on the app for the roku. Agent asks to check to see if they are receiving MSG on the cable box.
+Customer is complaining that he was using headphones on his HP laptop but today the headphones dont work on his computer anymore. Agent updated that they have tried updating all their drivers and they are up-to-date.
+Customer is complaining that he was underpaid for August/September and he is still not sure whats going on. Agent updated that they have tried to contact payroll weeks ago and had no reply.
+Customer is complaining that his friend was just helping him out with a few xtra skymiles and charged him a $130 transfer fee. Agent updated that there are no fees involved to transfer miles from one account to another.
+Customer is complaining that his power went out the other day and now his ps4 wont turn on at all. Agent updated that the console needs to be sent for service and asked to turn off the console and disconnect all the cables from it for 3 minutes, then try again.
+Customer is complaining that even after all the circumstances and me rarely over drafting and paying back the funds ASAP after I saw the overdraft. Agent updated to send their name/zip/phone #/acct type so their social care team can follow up with them.
+Customer is complaining about the home delivery of meat which is out of date. Agent updated that they will check the order number and account holder's name with link below.
+Customer is complaining about the delay in adding two bags on their account. Agent states that they can suggest to pay for their bag at the airport at the kiosk or at the bag drop with an agent.
+Customer is complaining that he went to buy a Lip na mpesa wrist band in your shop in Thika and was sent to Annas Mall where i dint find your Team. Agent updated that at the moment it can only be used in the towns mentioned in their previous response only.
+Customer is complaining about not having network since two days. Agent requests to share his Idea number and alternate number so that they can assist him better.
+Customer is complaining that the newupdate made it so his car cant control his. Agent updated to the latest version of iOS 11.0.3.
+Customer is complaining that the phone is ringing out constantly. Agent updated that the ebay item will be held until the store closes on that day.
+Customer is asking what exactly updated with the watchOS 4.1. Agent updated that the radio app is for the Apple Watch Series 3 only.
+Customer is complaining that the traveller info(birthday) was wrong. Agent requests to DM the guest's passport copy at https://t.co/Lj3Le02aMZ for correction.
+Customer is complaining about not being able to get a seat on DL 1105 from Atlanta. Agent updated that none of their tickets restrict you to middle seats only.
+Customer is complaining that he has been stuck on loading level for about 40 minutes. Agent updated the customer to clear his console's cache and to uninstall / reinstall CoD: IW.
+Customer is complaining that he paid for Amazon Prime membership to get his delivery on a nominated day (yesterday) and they outsourced the delivery to Hermes so are now saying they cant gaurentee it will be delivered on the day they specified. Agent updated that they can deliver up until 21:00.
+Customer is looking to change his flight Friday, Oct 27. GRMSKV to DL4728 from SLC to ORD. Agent updated that the difference in fare is $185.30.
+Customer is complaining that the Xbox support controller funktioniert nicht and Microsoft will ihn nicht reparieren weil die Konsole neu ist. Amazon offers to send it back and give me a refund but all I want is my Scorpio controller working. Agent states that if the controller has an internal issue you would need to follow the return policy for the retailer to get a new one.
+Customer is enquiring about the service of the train he is travelling on. Agent updated that earlier direct train from Paignton via Bristol Temple Meads at 0740 and 1132 via Westbury.
+The customer is complaining about the delay of the flight. The agent says that they can promise to review what happened that caused the flight to delay their plans.
+Customer is trying to find out which model of routers from third parties are viable for use with Verizon Fios internet and cable. Agent informs that they can use any router for their internet, but for TV service they must use their router.
+Customer is complaining that they can't organise a Halloween cake for delivery before 31st October and can only get it on Nov 3. Agent updated that it'll be after Halloween at this point but it's available to order in case anybody wishes.
+Customer is complaining that Siri do not work on IPhone 8plus. Agent updated to create a backup with iTunes or iCloud, and update the software.
+Customer is asking how do you Contact the Global Shipping Folks at Pitney Bowes. Agent states that they will open a return through the arrived damaged option and complete the process through there.
+Customer is complaining about the first class complimentary service on the 16.53 from Birmingham international to Chester. Agent updated that the staff onboard would be best to advise further.
+Customer is complaining that the auto checkin on the iOS app checked me in as standby on my flight on which I usually get upgraded. Agent updated that the customer can turn the automatic check in option off in settings.
+Customer is complaining that PA and HP have not started their xmas shopping yet. Agent states that he has done his already.
+Customer is complaining about not being able to get the games with gold for 360 in xbox one. Agent updated that they are an English speaking team here, are you able to continue in English? If not, you can  1 ^JL".
+Customer is complaining that they are travelling back to Liverpool from London Euston but only just realised they have to change at Crewe. Agent states that the only way to change it would be to pay for a change of journey.
+The customer is complaining about not being able to get red zone. The agent updated the customer to submit name and phone number for assistance.
+Customer is complaining about not being able to watch any channels at all or please when this message appears. Agent asks to disconnect the power cord for 5 mins and send a signal from the office.
+Customer is complaining about the question mark box error when typing their own messages or viewing other people's messages. Agent updated that the 11.1.1 update fixes the auto-correct issues on the device, but it won't fix seeing it on other forms of communication.
+Customer is complaining that log import is broken while he is trying to add a custom log import configuration. Agent updated that they have alerted the team and will make sure that they reply to the forum post ASAP.
+Customer is complaining that flight 112 from ORD-BOS was delayed then undelayed, now delayed again. Agent updated that there was an aircraft swap to lessen the delay.
+Customer is complaining that he was given the wrong copy of Star Wars Battlefront II at his Chichester store as the promo card said would receive #StarWarsTheLastJedi skins. Agent updated that any pre-order games come in a separate delivery to the main stock they will sell.
+Customer is complaining that he can't get service on the TV. Agent asks to disconnect the coax from the back of the box where it says FIOS TV IN, and then reconnect.
+Customer is complaining that he can't make calls or receive llamadas. Agent updated that restoring the device will place a new version of the iOS on his device which can help resolve this issue.
+Customer is complaining that he has been sent cash and he hasn't got the message yet. Agent updated that they have no issues reported with M-PESA services.
